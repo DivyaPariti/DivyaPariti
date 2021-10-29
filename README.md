@@ -12,7 +12,6 @@ A student, a passionate, self-taught, aspiring Web Developer and AI Engineer  fr
 - 🤔 I’m looking for a breakthrough in my Web Devlopment Career!
 - 💬 Ask me about how I got into programming and my interests!
 - 📫 How to reach me: Mail Me: divyatauja17@gmail.com
-- 🙆‍♂️ Check out my Resume: https://resume-9f5c3.web.app/
 - 🙆‍♂️ Check out my Portfolio: [Portfolio](https://divyapariti.github.io/Portfolio/)
 - ⚡ Fun fact: I used to hate Programming once!!
 
