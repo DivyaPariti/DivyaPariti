@@ -13,7 +13,7 @@ A student, a passionate, self-taught, aspiring Web Developer and AI Engineer  fr
 - 💬 Ask me about how I got into programming and my interests!
 - 📫 How to reach me: Mail Me: divyatauja17@gmail.com
 - 🙆‍♂️ Check out my Portfolio: [Portfolio](https://divyapariti.github.io/Portfolio/)
-- ⚡ Fun fact: I used to hate Programming once!!
+- ⚡ Fun fact: I used to hate Programming!!!
 
 
 
