@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 -->
 Talking about Personal Stuffs:
-A student, a passionate, self-taught, aspiring Web Developer and AI Engineer  from Hyderabad, India.
+A student, a passionate, self-taught, aspiring Web Developer and AI Engineer  from Hyderabad, India. Currently I am doing my master's from University College Dublin in Data and Computational Science.
 
 - 🌱 I’m currently learning .NET Full Stack, ReactJS, NextJS, AI.
 - 👯 I’m looking to collaborate on any Web Devlopment or AI Project.
